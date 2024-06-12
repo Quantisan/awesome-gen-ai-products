@@ -2,10 +2,6 @@
 
 A list of Generative AI products that are solving real-world problems in novel ways.
 
-## Coding
-
-- [Github Copilot Workspace](https://githubnext.com/projects/copilot-workspace/): each step can be edited, redone, or undone, making it easy to iteratively reach the desired solution
-
 ## Compliance
 
 - [Sarus](https://www.sarus.tech) ([blog](https://www.sarus.tech/blog)): helps businesses analyze sensitive data without exposing it, ensuring privacy and security while complying with privacy laws
