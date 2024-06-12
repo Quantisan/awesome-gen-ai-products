@@ -1,5 +1,7 @@
 # awesome-gen-ai-products
 
+A list of Generative AI products that are solving real-world problems in novel ways.
+
 ## Coding
 
 - [Github Copilot Workspace](https://githubnext.com/projects/copilot-workspace/): each step can be edited, redone, or undone, making it easy to iteratively reach the desired solution
