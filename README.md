@@ -2,6 +2,10 @@
 
 A list of Generative AI products that are solving real-world problems in novel ways.
 
+## Accessibility
+
+- [Be My AI](https://www.bemyeyes.com): help blind or visually impaired people with customer service issues
+
 ## Compliance
 
 - [Sarus](https://www.sarus.tech) ([blog](https://www.sarus.tech/blog)): helps businesses analyze sensitive data without exposing it, ensuring privacy and security while complying with privacy laws
