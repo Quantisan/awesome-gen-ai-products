@@ -10,6 +10,10 @@ A list of Generative AI products that are solving real-world problems in novel w
 
 - [Sarus](https://www.sarus.tech) ([blog](https://www.sarus.tech/blog)): helps businesses analyze sensitive data without exposing it, ensuring privacy and security while complying with privacy laws
 
+## Creative
+
+- [Descript](https://www.descript.com) ([blog](https://www.descript.com/blog)): edit audio and video by simply editing text like a doc
+
 ## Education
 
 - [Khanmigo](https://www.khanmigo.ai):  helps students think critically by guiding them through problems instead of just giving them answers
