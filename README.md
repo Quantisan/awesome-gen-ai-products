@@ -12,6 +12,8 @@ A list of Generative AI products that are solving real-world problems in novel w
 
 ## Creative
 
+- [voicetoinstrument.com](https://voicetoinstrument.com): Convert voice to instrumental tracks using AI
+
 - [Descript](https://www.descript.com) ([blog](https://www.descript.com/blog)): edit audio and video by simply editing text like a doc
 
 ## Education
